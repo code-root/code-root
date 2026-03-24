@@ -3,6 +3,7 @@
 
 <p align="left">
   I build <strong>production-grade</strong> full-stack systems and <strong>automation / integration</strong> tooling end-to-end: architecture, implementation, deployment, and long-term maintainability.<br><br>
+  I’m especially strong at <strong>communications analysis</strong> (network traffic, HTTP/WebSocket flows, mobile &amp; web clients), <strong>reverse engineering</strong> (binaries, obfuscated clients, undocumented APIs), and shipping <strong>automation toolchains</strong>—headless browsers, reliable schedulers, captcha/SMS/identity flows, and observability so jobs don’t fail silently.<br><br>
   As the <strong>founder of Storage TE</strong>, I ship software that combines <strong>solid engineering</strong> with <strong>security-aware</strong> design—APIs, high-traffic backends, browser automation, and protocol-level work when the problem demands it.<br><br>
   <strong>4+ years</strong> shipping Laravel, Node.js, and Python stacks; leading teams; and turning vague requirements into <strong>measurable outcomes</strong> for clients and products.
 </p>
@@ -18,7 +19,7 @@
 
 ### 🏢 Storage TE — my company
 
-**[Storage TE](http://storage-te.com/)** is my software company: we focus on **reliable delivery**, **clear architecture**, and **tools that survive real-world abuse**—from web platforms to automation and integration layers.  
+**[Storage TE](http://storage-te.com/)** is my software company: we focus on **reliable delivery**, **clear architecture**, and **tools that survive real-world abuse**—web platforms, **automation stacks**, **communications / protocol analysis**, and integration layers built to run for real users.  
 If you need a partner who owns the stack from idea to production, that’s the work I do under Storage TE.
 
 ---
@@ -27,9 +28,11 @@ If you need a partner who owns the stack from idea to production, that’s the w
 
 I’m a **hands-on senior engineer** who still writes code, reviews deeply, and owns outcomes—not tickets. I care about **performance, security posture, and operability** as much as features.
 
-- **Reverse engineering & protocol thinking** — mapping APIs, hardening integrations, and building utilities where documentation ends.
+- **Communications analysis** — dissecting how clients talk to servers (REST/GraphQL, WebSockets, custom payloads), reproducing flows, and documenting what “actually happens on the wire.”
+- **Reverse engineering** — decompilation / static &amp; dynamic analysis when the spec is missing; recovering behavior from apps and building **safe, maintainable** integrations on top.
+- **Automation tooling** — end-to-end pipelines (browser automation, API bots, retries, antidetect patterns where appropriate), not one-off scripts that break on the next deploy.
 - **Leadership** — I’ve led teams and projects at **Swaqny** and run **Storage TE** as founder: roadmaps, code quality, and delivery discipline.
-- **Always leveling up** in **cybersecurity**, **automation**, and **modern backend / full-stack** practice.
+- **Always leveling up** in **cybersecurity**, **automation at scale**, and **modern backend / full-stack** practice.
 
 **Quick facts**
 
@@ -73,13 +76,14 @@ I’m a **hands-on senior engineer** who still writes code, reviews deeply, and 
 
 ---
 
-### ⚙️ Reverse engineering & cybersecurity
+### ⚙️ Communications analysis, reverse engineering & automation
 
-I’ve built **custom tooling** for:
+I’ve built **custom tooling** and led work that sits at the intersection of **traffic analysis**, **RE**, and **reliable automation**:
 
-- **Protocol & API analysis** — request flows, integrations, and edge cases
-- **Data extraction** from third-party surfaces where official APIs fall short
-- **Hardening** — understanding failure modes to **reduce risk**, not to ship fragile hacks
+- **Communications &amp; protocol analysis** — mapping sessions end-to-end (headers, auth, cookies, tokens, rate limits), spotting anomalies, and turning findings into **stable integration contracts**.
+- **Reverse engineering** — unpacking client behavior, encrypted or obfuscated paths, and rebuilding equivalent server-side or automation flows **without guesswork**.
+- **Automation stacks** — durable runners, headless/browser drivers, captcha &amp; SMS verification hooks, logging/metrics, and failure recovery so operations teams can trust the pipeline.
+- **Cybersecurity lens** — decompilation, threat modeling for integrations, and **hardening** so we understand failure modes and **reduce risk**—not fragile one-off hacks.
 
 ---
 
