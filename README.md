@@ -54,6 +54,18 @@ I’m a **hands-on senior engineer** who still writes code, reviews deeply, and 
 
 ---
 
+### 🔧 Latest on GitHub (recent engineering)
+
+Five **most recently pushed** public repositories — automation, browser tooling, and protocol-oriented work:
+
+- **[gmail-account-creator](https://github.com/code-root/gmail-account-creator)** — Node.js **Gmail signup automation**: GPM Login / Dolphin Anty, Puppeteer, OMO Captcha, SMS APIs, proxies, human-like behavior — ESM toolkit with full docs.
+- **[vfs-appointment-bot](https://github.com/code-root/vfs-appointment-bot)** — **Playwright** automation for **VFS Global** appointment flows (multi-country), optional **GoLogin (GPM)**, multi-window runs, **Telegram / email / Twilio** notifications — EN + AR documentation.
+- **[tiktok-android-signing-toolkit](https://github.com/code-root/tiktok-android-signing-toolkit)** — Research Python toolkit: TikTok Android **v44.x** local signing (**X-Gorgon**, **Argus**, **Ladon**), `device_register`, login client, MITM helpers, tests — **educational use only**.
+- **[TikTokDeviceGenerator](https://github.com/code-root/TikTokDeviceGenerator)** — Desktop **Tkinter** app for batch TikTok **`device_register`** (Python + Java / **unidbg**); bilingual README (EN/AR).
+- **[tik-api](https://github.com/code-root/tik-api)** — TikTok-oriented **API / client** utilities and integration experiments (active workspace).
+
+---
+
 ### 🛠️ Tech stack & tools
 
 <div align="left">
