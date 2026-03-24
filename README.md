@@ -121,6 +121,29 @@ I’ve built **custom tooling** and led work that sits at the intersection of **
 
 ---
 
+### 💜 Support my work · دعم العمل
+
+If my open-source tools or content help you, **optional support** helps me keep shipping docs, fixes, and new releases. Thank you.
+
+| Channel | How to support |
+|--------|----------------|
+| **PayPal** | [paypal.me/sofaapi](https://paypal.me/sofaapi) |
+| **Binance Pay / UID** | **1138751298** — send from the Binance app (Pay / internal transfer when available). |
+| **Binance — deposit (web)** | [Deposit crypto (Binance)](https://www.binance.com/en/my/wallet/account/main/deposit/crypto) — sign in, pick the asset, then select **BSC (BEP20)**. |
+| **BSC address (copy)** | `0x94c5005229784d9b7df4e7a7a0c3b25a08fd57bc` |
+
+> **Network:** Use **BSC (BEP-20)** only. This address is for **USDT (BEP-20)** and **BTC on BSC** (Binance-Peg / in-app “BTC” on BSC). **Do not** send **native Bitcoin (on-chain BTC)**, **ERC-20**, or **NFTs** to this address.
+
+#### Deposit QR codes (scan in Binance or any BSC wallet)
+
+| USDT · BSC | BTC · BSC |
+|------------|-----------|
+| <img src="https://raw.githubusercontent.com/code-root/gmail-account-creator/main/assets/deposit-usdt-bsc.jpeg" width="200" alt="USDT deposit QR — BSC" /> | <img src="https://raw.githubusercontent.com/code-root/gmail-account-creator/main/assets/deposit-btc-bsc.jpeg" width="200" alt="BTC on BSC deposit QR" /> |
+
+<sub>QR source: <a href="https://github.com/code-root/gmail-account-creator/tree/main/assets">code-root/gmail-account-creator · assets</a></sub>
+
+---
+
 <p align="center">
   <sub>Built with intent — engineering, ownership, and clean shipping.</sub>
 </p>
